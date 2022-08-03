@@ -461,22 +461,22 @@
       © 2020 Braille Institute of America, Inc., a 501(c)(3) Charitable Organization.
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Atkinson Hyperlegible
+      Extended Hyperlegible
     </namerecord>
     <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.02;;AtkinsonHyperlegible-Regular;2019;FL712
+      Version 1.03;;ExtendedHyperlegible-Regular;2022;FL712
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Atkinson Hyperlegible Regular
+      Extended Hyperlegible Regular
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.02
+      Version 1.03
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      AtkinsonHyperlegible-Regular
+      ExtendedHyperlegible-Regular
     </namerecord>
     <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Applied Design Works
@@ -503,22 +503,22 @@
       © 2020 Braille Institute of America, Inc., a 501(c)(3) Charitable Organization.
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
-      Atkinson Hyperlegible
+      Extended Hyperlegible
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      Version 1.02;;AtkinsonHyperlegible-Regular;2019;FL712
+      Version 1.03;;ExtendedHyperlegible-Regular;2022;FL712
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      AtkinsonHyperlegible-Regular
+      ExtendedHyperlegible-Regular
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.02
+      Version 1.03
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
-      AtkinsonHyperlegible-Regular
+      ExtendedHyperlegible-Regular
     </namerecord>
     <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
       Applied Design Works
