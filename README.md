@@ -1,8 +1,14 @@
 # Extended Hyperlegible
 
-An updated version of the Atkinson Hyperlegible font from https://brailleinstitute.org/freefont
+An updated version of the Atkinson Hyperlegible font originally available from https://brailleinstitute.org/freefont
 
 The Braille Institute's version is no longer receiving updates [https://twitter.com/BrailleInst/status/1554606689130651651](https://twitter.com/BrailleInst/status/1554606689130651651).
+
+You can read more about this new version on my blog https://shkspr.mobi/blog/2022/08/an-update-to-the-atkinson-hyperlegible-font/
+
+## Version 1.04
+
+* Fixed width of Copyleft symbol
 
 ## Version 1.03
 
